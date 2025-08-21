@@ -7,7 +7,7 @@
 1. Fork 本仓库
 2. 克隆您的 fork 到本地机器
    ```bash
-   git clone https://github.com/YOUR_USERNAME/react-zoom-map.git
+   git clone https://github.com/BearMaiMai/react-zoom-map.git
    cd react-zoom-map
    ```
 3. 安装依赖
